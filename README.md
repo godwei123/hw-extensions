@@ -2,7 +2,7 @@
 
 ## 1、下载
 
-[Release](https://github.com/godwei123/hw-extensions/releases/download/beta/extensions.v0.0.1-beta.zip)  或 源码中 [extensions.zip](https://github.com/godwei123/hw-extensions/blob/main/extensions.zip) 压缩包
+`Release`或 源码中 `extensions.zip` 压缩包
 
 
 
